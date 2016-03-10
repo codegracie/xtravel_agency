@@ -1,2 +1,2 @@
 == README
-This is a practice labwork using nested forms by Grace Sojor
+This is a labwork using nested forms by Grace Sojor
